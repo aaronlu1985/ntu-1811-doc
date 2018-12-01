@@ -86,9 +86,16 @@ p {
 ```
 
 
+## Referencing CSS
 
+```
+<head>
+  <link rel="stylesheet" href="main.css">
+</head>
 
+```
 
+> 相对路径和绝对路径
 
 
 
