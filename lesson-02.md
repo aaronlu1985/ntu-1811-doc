@@ -9,6 +9,10 @@ CSS should not be written inside of an HTML document and vice versa. As a rule, 
 
 将 CSS 文件独立的放在一个 .css 文件中，是编写前端页面一个优秀的习惯
 
+## Understanding Common HTML Terms
+
+
+
 
 
 
