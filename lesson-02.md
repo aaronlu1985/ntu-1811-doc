@@ -52,39 +52,37 @@ CSS should not be written inside of an HTML document and vice versa. As a rule, 
 
 ### Selectors 选择器
 
-1. Type Selectors 标签选择器
+* Type Selectors 标签选择器
 
 ```html
-  标签名 {
-    样式属性: 属性值;
-    样式属性: 属性值;
-  }
-  
-  p {
-    color: red;
-    margin: 5px;
-  }
+标签名 {
+  样式属性: 属性值;
+  样式属性: 属性值;
+}
+
+p {
+  color: red;
+  margin: 5px;
+}
 
 ```
 
-1. Class Selectors 类选择器
+* Class Selectors 类选择器
 
 ```html
-  .className {
-    样式属性: 属性值;
-    样式属性: 属性值;
-  }
-
+.className {
+  样式属性: 属性值;
+  样式属性: 属性值;
+}
 ```
 
-1. ID Selectors ID选择器
+* ID Selectors ID选择器
 
 ```html
-  #id {
-    样式属性: 属性值;
-    样式属性: 属性值;
-  }
-
+#id {
+  样式属性: 属性值;
+  样式属性: 属性值;
+}
 ```
 
 
