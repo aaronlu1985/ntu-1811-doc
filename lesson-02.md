@@ -29,6 +29,25 @@ CSS should not be written inside of an HTML document and vice versa. As a rule, 
 ```html
 <a href="http://shayhowe.com/">Shay Howe</a>
 ```
+## Setting Up the HTML Document Structure
+
+
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Hello World</title>
+  </head>
+  <body>
+    <h1>Hello World</h1>
+    <p>This is a web page.</p>
+  </body>
+</html>
+
+```
+
 
 
 
