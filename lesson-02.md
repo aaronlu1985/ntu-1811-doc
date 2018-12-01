@@ -67,7 +67,7 @@ p {
 
 ```
 
-1. Properties 属性选择器
+1. Class Selectors 类选择器
 
 
 
