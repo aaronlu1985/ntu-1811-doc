@@ -50,7 +50,7 @@ CSS should not be written inside of an HTML document and vice versa. As a rule, 
 
 ## Understanding Common CSS Terms
 
-
+### Selectors 选择器
 
 
 
