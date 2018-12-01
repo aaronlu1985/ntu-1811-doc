@@ -23,7 +23,7 @@ HTML评论以`<!-- and end with -->`。CSS评论`/* comment */`。
 
 ### 文字类
 
-```
+```html
 
 <h1></h1>
 
@@ -36,8 +36,11 @@ HTML评论以`<!-- and end with -->`。CSS评论`/* comment */`。
 <strong></strong>
 <em></em>
 
-
-
 ```
 
+### 结构类
+
+```html
+<header>，<nav>，<article>，<section>，<aside>，和<footer>元素
+```
 
