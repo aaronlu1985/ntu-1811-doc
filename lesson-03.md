@@ -1,2 +1,2 @@
-# Lesson 03 : Get to know HTML
+# Lesson 03 : Getting to know HTML
 
