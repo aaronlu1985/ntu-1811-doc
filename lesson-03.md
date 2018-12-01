@@ -41,6 +41,11 @@ HTML评论以`<!-- and end with -->`。CSS评论`/* comment */`。
 ### 结构类
 
 ```html
-<header>，<nav>，<article>，<section>，<aside>，和<footer>元素
+<header>
+<nav>
+<article>
+<section>
+<aside>
+<footer>
 ```
 
