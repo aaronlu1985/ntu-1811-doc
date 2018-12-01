@@ -2,5 +2,8 @@
 
 ## What Are HTML & CSS?
 
+> HTML, HyperText Markup Language
+> CSS, or Cascading Style Sheets
+
 
 
