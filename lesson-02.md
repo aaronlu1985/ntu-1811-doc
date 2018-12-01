@@ -58,7 +58,11 @@ CSS should not be written inside of an HTML document and vice versa. As a rule, 
 标签名 {
   样式属性: 属性值;
   样式属性: 属性值;
+}
 
+p {
+  color: red;
+  margin: 5px;
 }
 
 ```
