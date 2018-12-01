@@ -54,7 +54,14 @@ CSS should not be written inside of an HTML document and vice versa. As a rule, 
 
 1. Properties 属性选择器
 
+```html
+标签名 {
+  样式属性: 属性值;
+  样式属性: 属性值;
 
+}
+
+```
 
 
 
