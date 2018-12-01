@@ -52,7 +52,7 @@ CSS should not be written inside of an HTML document and vice versa. As a rule, 
 
 ### Selectors 选择器
 
-1. Properties 属性选择器
+1. Type Selectors 标签选择器
 
 ```html
 标签名 {
@@ -66,6 +66,8 @@ p {
 }
 
 ```
+
+1. Properties 属性选择器
 
 
 
